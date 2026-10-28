@@ -1,4 +1,4 @@
-
+	
 #!/bin/bash
 
 # ===== Parte 3: salida de resultados (Integrante 3) =====
